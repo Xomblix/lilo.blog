@@ -3,10 +3,9 @@ headless = true
 
 [[link]]
 title = "Home"
-url = "/"
+url = "Laurin-Rothen/Loloblog"
 
 [[link]]
 title = "About me"
 url = "/about/"
 +++
-
